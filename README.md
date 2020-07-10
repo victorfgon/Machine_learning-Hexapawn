@@ -1,1 +1,1 @@
-http://cs.williams.edu/\~freund/cs136-073/GardnerHexapawn.pdf
+cs.williams.edu/%5C~freund/cs136-073/GardnerHexapawn.pdf
